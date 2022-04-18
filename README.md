@@ -1,2 +1,5 @@
-# CloneNETFLIX
-Uma forma diferente de ver e escolher um filme, baseado no original, tão parecido quanto possível.
+
+#CLONE NetFlix
+
+##Uma forma de ver e escolher filmes.
+##Baseado no  original.
