@@ -1,5 +1,4 @@
+#  CLONE NetFlix   
 
-#CLONE NetFlix
-
-##Uma forma de ver e escolher filmes.
-##Baseado no  original.
+##  Uma forma  de escolher e ver filmes.
+##      Baseado no  original.
